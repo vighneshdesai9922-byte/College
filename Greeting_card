@@ -1,0 +1,15 @@
+name = input("enter your name:")
+
+occasion=input("enter your occasion:")
+
+message = input("enter your message: ")
+
+print("\n congratulations ..... ")
+
+print(f"dear {name}.")
+
+print(f"{message}.")
+
+print(f"happy {occasion}.")
+
+print("wishing you all the best.")
